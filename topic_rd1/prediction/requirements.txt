@@ -1,0 +1,13 @@
+click
+h11
+pydantic
+starlette
+fastapi
+transformers
+scipy
+torch
+torchvision
+PyJWT
+passlib
+uvicorn
+pandas

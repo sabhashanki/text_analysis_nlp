@@ -1,0 +1,11 @@
+click
+h11
+pydantic
+starlette
+fastapi
+keybert
+keyphrase_vectorizers
+PyJWT
+passlib
+uvicorn
+pandas

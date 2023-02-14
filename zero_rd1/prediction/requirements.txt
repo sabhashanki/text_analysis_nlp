@@ -1,0 +1,14 @@
+click
+pandas
+h11
+pydantic
+starlette
+fastapi
+transformers
+scipy
+torch
+torchvision
+PyJWT
+passlib
+uvicorn
+python-dotenv
