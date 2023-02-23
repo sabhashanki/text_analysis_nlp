@@ -1,0 +1,9 @@
+click
+h11
+pydantic
+starlette
+fastapi
+openai
+uvicorn
+python-dotenv
+pandas

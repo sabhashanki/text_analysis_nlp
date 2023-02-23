@@ -1,0 +1,11 @@
+click
+pandas
+h11
+pydantic
+starlette
+fastapi
+transformers
+scipy
+torch
+torchvision
+uvicorn

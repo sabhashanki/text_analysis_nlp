@@ -1,0 +1,19 @@
+2023-02-14 15:47:38,931 - INFO - Load pretrained SentenceTransformer: /home/ms/project/models/keyword/MiniLM-L6-Keyword-Extraction
+2023-02-14 15:47:39,462 - INFO - Use pytorch device: cuda
+2023-02-14 15:47:39,463 - INFO - Initialization Done
+2023-02-14 15:47:47,750 - INFO - Keyword module execution
+2023-02-14 15:47:50,723 - INFO - Returning output
+2023-02-14 15:47:50,729 - INFO - Keyword module execution
+2023-02-14 15:47:51,399 - INFO - Returning output
+2023-02-14 15:47:51,403 - INFO - Keyword module execution
+2023-02-14 15:47:52,062 - INFO - Returning output
+2023-02-14 15:47:52,067 - INFO - Keyword module execution
+2023-02-14 15:47:52,690 - INFO - Returning output
+2023-02-14 15:47:52,695 - INFO - Keyword module execution
+2023-02-14 15:47:53,442 - INFO - Returning output
+2023-02-14 15:47:53,448 - INFO - Keyword module execution
+2023-02-14 15:47:54,076 - INFO - Returning output
+2023-02-14 15:47:54,081 - INFO - Keyword module execution
+2023-02-14 15:47:54,730 - INFO - Returning output
+2023-02-14 15:47:54,735 - INFO - Keyword module execution
+2023-02-14 15:47:55,469 - INFO - Returning output
